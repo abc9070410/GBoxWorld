@@ -2,7 +2,7 @@
 
 - A simple Box Wold using GTK+
 
-![res](screenshot/screen01.png)
+![res](screenshot/screen01.PNG)
 
 ## Running Environment
 

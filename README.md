@@ -14,5 +14,7 @@
 - Glade/Gtk+ for Windows (http://sourceforge.net/projects/gladewin32/)
 - Dev-C++ Development Packages (http://sourceforge.net/projects/devpaks/)
 
+## License
 
+- GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
 

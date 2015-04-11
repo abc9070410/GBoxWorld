@@ -1,6 +1,6 @@
 # GBoxWorld
 
-- A simple Box Wold using GTK+
+- A simple Box Wold game using GTK+
 
 ![res](screenshot/screen01.PNG)
 
@@ -12,7 +12,7 @@
 
 - Dev C++ (http://orwelldevcpp.blogspot.tw/)
 - Glade/Gtk+ for Windows (http://sourceforge.net/projects/gladewin32/)
-- Dev-C++ Development Packages (http://sourceforge.net/projects/devpaks/)
+- Dev-C++ Development Packages for GTK+ (http://sourceforge.net/projects/devpaks/files/gtk%2B/gtk%2B%202.6.9/)
 
 ## License
 
